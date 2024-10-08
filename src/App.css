@@ -7,3 +7,28 @@
 .sidebar {
   min-height: 800px;
 }
+.post-card {
+  margin: 20px 50px;
+}
+.hashtag {
+  margin: 0px 3px;
+}
+.reaction {
+  width: 100%;
+  margin: 15px 0 0 0;
+}
+.create {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+
+.center {
+  margin: 100px 0px;
+}
+
+.spinner {
+  margin: 10% 0;
+
+  color: rgb(12, 128, 230);
+}
